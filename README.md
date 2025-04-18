@@ -1,0 +1,2 @@
+# Alacritty-
+config file
