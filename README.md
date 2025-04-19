@@ -1,2 +1,2 @@
-# Alacritty-
+
 config file
