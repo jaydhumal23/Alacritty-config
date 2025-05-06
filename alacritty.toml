@@ -1,8 +1,8 @@
 [window]
-dimensions = { columns = 126, lines = 38 }
+dimensions = { columns = 122, lines = 34 }
 padding = { x = 10, y = 10 }
 decorations = "none"
-opacity = 0.88
+opacity = 0.5
 blur = true
 
 [font]
